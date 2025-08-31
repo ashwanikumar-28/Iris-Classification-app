@@ -7,6 +7,9 @@ The model is trained using the famous **Iris dataset** and implemented with **K-
 - Interactive UI built with **Streamlit**.
 - Easy to deploy and run locally.
 
+# Live Demo
+https://iris-classification-app-xag7qcujite2njaupnyaxr.streamlit.app/
+
 # Installation
 1. Clone the repository:
    git clone https://github.com/ashwanikumar-28/iris-classification-app.git
